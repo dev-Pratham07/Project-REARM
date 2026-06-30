@@ -11,12 +11,10 @@ This project was developed as a **first-semester college engineering project** a
 * **Vishwakarma Institute of Technology (VIT), Pune, Maharashtra, India**
 
 **Team Members:**
-* Chandrashekhar Mahajan
 * Prathamesh Katole
 * Pranav Khandelwal
 * Prathmesh Mante
 * Pranjal Singh
-* Prathmesh Lathkar
 
 ---
 
